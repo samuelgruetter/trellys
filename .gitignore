@@ -1,4 +1,9 @@
 *.trellys-elaborated
+*.trellys-bin
+
+.cabal-sandbox
+cabal.sandbox.config
+
 TAGS
 
 # hpc
